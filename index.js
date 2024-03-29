@@ -35,7 +35,7 @@ app.listen(port, () => console.log('\x1b[36m%s\x1b[0m', `|    🔗 Listening to 
 
 
 // ADD YOUR STATUS HERE 
-const statusMessages = ["Executed by TheHiepCORD, developed by POLIC Hiep Studio"];
+const statusMessages = ["Executed by TheHiepCORD""Developed by POLIC Hiep Studio"];
 
 
 let currentIndex = 0;
